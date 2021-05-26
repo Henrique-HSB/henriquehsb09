@@ -1,8 +1,7 @@
-# henriquehsb09
-Saudações a todoos!
+# Saudações !
 
-Desejo que muita saude e paz ao universo para que todos possamos prosperar com uma vida longa e bela!
+Atualmente cursando MBA em Data Science, Busco me desenvolver em uma carreira Full Stack.<br />
+Meu [Linkedin](https://www.linkedin.com/in/henrique-sampaio-batista/) para contato!
 
-Um beijo no coração de cada um que ler essa mensagem !
-
-Latino americano, Henriquehsb09
+Um grande abraço! <br />
+Henrique.
