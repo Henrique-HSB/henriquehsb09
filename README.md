@@ -7,6 +7,7 @@ Busco me desenvolver em uma carreira de Cientista de Dados.<br />
                                                            [Gama Academy](https://www.gama.academy/);<br />
                                                            [Let's Code](https://letscode.com.br/);<br />
                                                            [Data Science Academy](https://www.datascienceacademy.com.br/cursosgratuitos);<br />
+                                                           [Trailhead](https://trailblazer.me/id/henriquehsb);<br />
                                                            
 :briefcase: Meu [Linkedin](https://www.linkedin.com/in/henrique-sampaio-batista/) para contato!
 
